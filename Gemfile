@@ -21,3 +21,6 @@ group :other_plugins do
     gem 'httparty'
     gem 'feedjira'
 end
+
+gem "platform", "~> 3.1"
+gem "ruby", "~> 0.1.0"
