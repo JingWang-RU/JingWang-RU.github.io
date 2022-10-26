@@ -15,12 +15,13 @@
       institution: Hefei University of Technology (Hefei, China), National University of Singapore
       year: 2015
       description:
-        - Online Feature Selection Based on Sparse Linear Regression
+        - Online Feature Selection with Sparse Linear Regression
         - title: Compressed sensing
           contents:
             - Face recognition, image denoising, social recommendations
         - title: Region-Convolutional Neural Networks Based on Caffee
         - Object detection, image classification and image denoising
+        
     - title: Master in Computer Science, Bachelor in Computer Science
       institution: Hefei University of Technology, Hefei, China
       year: 2012
