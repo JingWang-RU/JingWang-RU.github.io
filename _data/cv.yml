@@ -12,17 +12,17 @@
   type: time_table
   contents:
     - title: Ph.D. in Computer Science
-      institution: Hefei University of Technology (Hefei, China), National University of Singapore
+      institution: Hefei University of Technology (China), National University of Singapore
       year: 2015
       description:
         - Compressed sensing
         - Social recommendations
-        - Region-convolutional neural networks Based on Caffee
         - Online feature selection with sparse linear regression
+        - Region-convolutional neural networks Based on Caffee
         - Face recognition, object detection, and image classification
 
-    - title: Master in Computer Science, Bachelor in Computer Science
-      institution: Hefei University of Technology, Hefei, China
+    - title: Master and Bachelor in Computer Science
+      institution: Hefei University of Technology, China
       year: 2012
       description:
         - Content-based news recommendation
@@ -46,17 +46,17 @@
       year: 04.2020 - now
       description:
         - Lead the project of active learning
-        - Build search model with Siamese networks
+        - Build NLP based search based on Siamese networks
         - Design personalized recommendation with contexts
         - Analyze customer feedback to improve search service
-        - Collabroation with the internal and external scientific community
+        - Collabroate with the internal and external scientific community
 
     - title: Postdoctoral Fellow
       institution: Mount Sinai, NYC
       year: 04.2019 - 09.2019
       description:
         - Lead and conduct scientific research projects
-        - Present the analysis of research in manuscripts and meetings 
+        - Present the analysis of research in manuscripts 
 
     - title: Postdoctoral Associate
       institution: Dalio Institute of Cardiovascular Imaging, Cornell University, NYC
@@ -73,45 +73,45 @@
         - Approximate Nearest Neighbor Search
         - Online Feature Selection Based on Spectral Graph Theory
 
-# - title: Open Source Projects
-#   type: time_table
-#   contents:
-#     - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-#       year: 2015-now
-#       description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+- title: Open Source Projects
+  type: time_table
+  contents:
+    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
+      year: 2015-now
+      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
 
-# - title: Services
-#   type: time_table
-#   contents:
-#     - year: 2022
-#       items: 
-#         - reviewer for AISTATS, ICML, ICLR ICML 
-#     - year: 2021
-#       items: 
-#         - reviewer for NeurIPS, ICML, IJCAI, ICLR
-#     - year: before 2020
-#       items:
-#         - reviewer for ICML, NeurIPS 2019, NeurIPS 2018, AAAI 2018, TPAMI, TKDE, TNNLS
+- title: Services
+  type: time_table
+  contents:
+    - year: 2022
+      items: 
+        - reviewer for AISTATS, ICML, ICLR ICML 
+    - year: 2021
+      items: 
+        - reviewer for NeurIPS, ICML, IJCAI, ICLR
+    - year: before 2020
+      items:
+        - reviewer for ICML, NeurIPS 2019, NeurIPS 2018, AAAI 2018, TPAMI, TKDE, TNNLS
 
-# - title: Academic Interests
-#   type: nested_list
-#   contents:
-#     - title: Computational learning theory
-#       items: 
-#         - Online machine learning 
-#         - Probably approximately correct learning 
-#     - title: Robust and adaptable optimization 
-#       items: 
-#         - Robust sequential decision making
-#         - Approximate nearest neighbor search
-#     - title: Reinforcement learning
-#       items:
-#         - Contextual bandits
-#         - Linear bandits
-#     - title: Deep learning
-#       items:
-#         - Object detection
-#         - Question answering
+- title: Academic Interests
+  type: nested_list
+  contents:
+    - title: Computational learning theory
+      items: 
+        - Online machine learning 
+        - Probably approximately correct learning 
+    - title: Robust and adaptable optimization 
+      items: 
+        - Robust sequential decision making
+        - Approximate nearest neighbor search
+    - title: Reinforcement learning
+      items:
+        - Contextual bandits
+        - Linear bandits
+    - title: Deep learning
+      items:
+        - Object detection
+        - Question answering
 
 - title: Other Interests
   type: list
