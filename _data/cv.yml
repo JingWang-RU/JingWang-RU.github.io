@@ -43,10 +43,7 @@
         - Lead the project to build an end-to-end multi-horizon time series forecasting model for world-wide retail business
         - Identify and frame the out of stock problem in supply chain with bandits
         - Make the plan for production deployment with production team and engineering team
-        # - title: Description 3.
-        #   contents:
-        #     - Sub-description 1.
-        #     - Sub-description 2.
+ 
     - title: Applied Scientist
       institution: AWS AI Labs, Amazon Web Services, NYC, NY.
       year: 04.2020 - now
@@ -93,14 +90,17 @@
 - title: Services
   type: time_table
   contents:
-    - year: Reviewer
+    - year: 2022
       items: 
-        - AISTATS 2022, ICML 2022, ICLR 2022, AISTATS 2022, NeurIPS 2021, ICML 2021, IJCAI 2021, ICLR 2021, ICML 2020, NeurIPS 2019, NeurIPS 2018, AAAI 2018.
-        - IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), IEEE Transactions on Knowledge and Data Engineering (TKDE), IEEE Transactions on Neural Networks and Learning Systems (TNNLS).
+        - reviewer for AISTATS, ICML, ICLR ICML 
+        # - IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), IEEE Transactions on Knowledge and Data Engineering (TKDE), IEEE Transactions on Neural Networks and Learning Systems (TNNLS).
         # - Matteucci Medal
-    # - year: 2029
-    #   items: 
-    #     - Max Planck Medal
+    - year: 2021
+      items: 
+        - reviewer for NeurIPS, ICML, IJCAI, ICLR
+    - year: 2020
+      items:
+        - reviewer for ICML, NeurIPS 2019, NeurIPS 2018, AAAI 2018.
 
 - title: Academic Interests
   type: nested_list
