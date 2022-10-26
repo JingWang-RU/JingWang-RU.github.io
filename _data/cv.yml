@@ -19,9 +19,9 @@
         - title: Compressed sensing
           contents:
             - Face recognition, image denoising, social recommendations
-        - title: Region-Convolutional Neural Networks Based on Caffee
-        - Object detection, image classification and image denoising
-        
+        - Region-Convolutional Neural Networks Based on Caffee
+        - Object detection, image classification and denoising
+
     - title: Master in Computer Science, Bachelor in Computer Science
       institution: Hefei University of Technology, Hefei, China
       year: 2012
@@ -31,26 +31,26 @@
         - Rules Selection for 2D and 3D Robotics Competition
         - A WordNet-Based Natural Language Processing 
 
-# - title: Experience
-#   type: time_table
-#   contents:
-#     - title: Applied Scientist
-#       institution: Forecasting, Amazon, NYC, NY.
-#       year: 09.2019 - 04.2020
-#       description:
-#         - Lead the project to build an end-to-end multi-horizon time series forecasting model for world-wide retail business
-#         - Identify and frame the out of stock problem in supply chain with bandits
-#         - Make the plan for production deployment with production team and engineering team
+- title: Experience
+  type: time_table
+  contents:
+    - title: Applied Scientist
+      institution: Forecasting, Amazon, NYC, NY.
+      year: 09.2019 - 04.2020
+      description:
+        - Build an end-to-end forecasting model for world-wide retail business
+        - Identify and frame the problem in supply chain with bandits
+        - Make the plan for production deployment
  
-#     - title: Applied Scientist
-#       institution: AWS AI Labs, Amazon Web Services, NYC, NY.
-#       year: 04.2020 - now
-#       description:
-#         - Define and work on personalized recommendation problem with contextual information
-#         - Main contributor of the project to learn the production model with Siamese networks
-#         - Collect and make analysis of customer feedback to improve performance of search service
-#         - Lead the project of active learning and influence the annotation team
-#         - Collabroate with scientists in the internal and external scientific community
+    - title: Applied Scientist
+      institution: AWS AI Labs, Amazon Web Services, NYC, NY.
+      year: 04.2020 - now
+      description:
+        - Define personalized recommendation with contextual information
+        - Build the production model with Siamese networks
+        - Collect customer feedback for renovation of search service
+        - Lead the project of active learning and influence the annotation team
+        - Collabroate with scientists in the internal and external scientific community
 
 #     - title: Postdoctoral Fellow
 #       institution: Mount Sinai, NYC, NY.
