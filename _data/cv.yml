@@ -95,8 +95,9 @@
   contents:
     - year: Reviewer
       items: 
-        - 
-        - Matteucci Medal
+        - AISTATS 2022, ICML 2022, ICLR 2022, AISTATS 2022, NeurIPS 2021, ICML 2021, IJCAI 2021, ICLR 2021, ICML 2020, NeurIPS 2019, NeurIPS 2018, AAAI 2018.
+        - IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), IEEE Transactions on Knowledge and Data Engineering (TKDE), IEEE Transactions on Neural Networks and Learning Systems (TNNLS).
+        # - Matteucci Medal
     # - year: 2029
     #   items: 
     #     - Max Planck Medal
