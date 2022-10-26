@@ -38,8 +38,8 @@
       year: 09.2019 - 04.2020
       description:
         - Plan for production model deployment
-        - Out of stock in supply chain with bandits
-        - An end-to-end forecasting model for global retail business
+        - Formulate and solve out of stock in supply chain with bandits
+        - Build an end-to-end forecasting model for global retail business
  
     - title: Applied Scientist
       institution: AWS AI Labs, Amazon Web Services, NYC
