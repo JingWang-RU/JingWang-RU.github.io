@@ -8,119 +8,119 @@
     - name: Languages
       value: English, Mandarin, Cantonese
 
-- title: Education
-  type: time_table
-  contents:
-    - title: Ph.D. in Computer Science
-      institution: Hefei University of Technology, Anhui, China
-      institution: National University of Singapore, Singapore
-      year: 2015
-      description:
-        - Online Feature Selection Based on Sparse Linear Regression
-        - title: Compressed sensing
-          contents:
-            - Face recognition, image denoising, social recommendations
-        - title: Region-Convolutional Neural Networks Based on Caffee
-          contents:
-            - Object detection
-        - Applications in vision include object detection, image classification and image denoising
-    - title: Master in Computer Science, Bachelor in Computer Science
-      institution: Hefei University of Technology, Anhui, China
-      year: 2012
-      description:
-        - Content-Based News Recommendation
-        - Designing A Web-Based Ecommerce Platform With Mashup
-        - Rules Selection for 2D and 3D Robotics Competition
-        - A WordNet-Based Natural Language Processing 
+# - title: Education
+#   type: time_table
+#   contents:
+#     - title: Ph.D. in Computer Science
+#       institution: Hefei University of Technology, Anhui, China
+#       institution: National University of Singapore, Singapore
+#       year: 2015
+#       description:
+#         - Online Feature Selection Based on Sparse Linear Regression
+#         - title: Compressed sensing
+#           contents:
+#             - Face recognition, image denoising, social recommendations
+#         - title: Region-Convolutional Neural Networks Based on Caffee
+#           contents:
+#             - Object detection
+#         - Applications in vision include object detection, image classification and image denoising
+#     - title: Master in Computer Science, Bachelor in Computer Science
+#       institution: Hefei University of Technology, Anhui, China
+#       year: 2012
+#       description:
+#         - Content-Based News Recommendation
+#         - Designing A Web-Based Ecommerce Platform With Mashup
+#         - Rules Selection for 2D and 3D Robotics Competition
+#         - A WordNet-Based Natural Language Processing 
 
-- title: Experience
-  type: time_table
-  contents:
-    - title: Applied Scientist
-      institution: Forecasting, Amazon, NYC, NY.
-      year: 09.2019 - 04.2020
-      description:
-        - Lead the project to build an end-to-end multi-horizon time series forecasting model for world-wide retail business
-        - Identify and frame the out of stock problem in supply chain with bandits
-        - Make the plan for production deployment with production team and engineering team
+# - title: Experience
+#   type: time_table
+#   contents:
+#     - title: Applied Scientist
+#       institution: Forecasting, Amazon, NYC, NY.
+#       year: 09.2019 - 04.2020
+#       description:
+#         - Lead the project to build an end-to-end multi-horizon time series forecasting model for world-wide retail business
+#         - Identify and frame the out of stock problem in supply chain with bandits
+#         - Make the plan for production deployment with production team and engineering team
  
-    - title: Applied Scientist
-      institution: AWS AI Labs, Amazon Web Services, NYC, NY.
-      year: 04.2020 - now
-      description:
-        - Define and work on personalized recommendation problem with contextual information
-        - Main contributor of the project to learn the production model with Siamese networks
-        - Collect and make analysis of customer feedback to improve performance of search service
-        - Lead the project of active learning and influence the annotation team
-        - Collabroate with scientists in the internal and external scientific community
+#     - title: Applied Scientist
+#       institution: AWS AI Labs, Amazon Web Services, NYC, NY.
+#       year: 04.2020 - now
+#       description:
+#         - Define and work on personalized recommendation problem with contextual information
+#         - Main contributor of the project to learn the production model with Siamese networks
+#         - Collect and make analysis of customer feedback to improve performance of search service
+#         - Lead the project of active learning and influence the annotation team
+#         - Collabroate with scientists in the internal and external scientific community
 
-    - title: Postdoctoral Fellow
-      institution: Mount Sinai, NYC, NY.
-      year: 04.2019 - 09.2019
-      description:
-        - Lead and conduct scientific research projects
-        - Present the analysis of research in manuscripts and meetings 
+#     - title: Postdoctoral Fellow
+#       institution: Mount Sinai, NYC, NY.
+#       year: 04.2019 - 09.2019
+#       description:
+#         - Lead and conduct scientific research projects
+#         - Present the analysis of research in manuscripts and meetings 
 
-    - title: Postdoctoral Associate
-      institution: Dalio Institute of Cardiovascular Imaging, Cornell University, NYC, NY
-      year: 04.2018 - 04.2019
-      description:
-        - Deep learning based algorithms for software design
-        - Record and maintain medical data for projects and publication in peer-reviewed journals
-        - title: Perform a variety of tasks to support reseach projects
-           contents: 
-              - projects planning
-              - preparation of grants
-              - publications and presentations on my own research analyses as well as research done in collaboration with other scientists
+#     - title: Postdoctoral Associate
+#       institution: Dalio Institute of Cardiovascular Imaging, Cornell University, NYC, NY
+#       year: 04.2018 - 04.2019
+#       description:
+#         - Deep learning based algorithms for software design
+#         - Record and maintain medical data for projects and publication in peer-reviewed journals
+#         - title: Perform a variety of tasks to support reseach projects
+#            contents: 
+#               - projects planning
+#               - preparation of grants
+#               - publications and presentations on my own research analyses as well as research done in collaboration with other scientists
 
-    - title: Visiting Scholar
-      institution: Department of Statistics, Rutgers University, Pistacaway, NJ
-      year: 08.2015 - 04.2018
-      description:
-        - Approximate Nearest Neighbor Search
-        - Online Feature Selection Based on Spectral Graph Theory
+#     - title: Visiting Scholar
+#       institution: Department of Statistics, Rutgers University, Pistacaway, NJ
+#       year: 08.2015 - 04.2018
+#       description:
+#         - Approximate Nearest Neighbor Search
+#         - Online Feature Selection Based on Spectral Graph Theory
 
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+# - title: Open Source Projects
+#   type: time_table
+#   contents:
+#     - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
+#       year: 2015-now
+#       description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
 
-- title: Services
-  type: time_table
-  contents:
-    - year: 2022
-      items: 
-        - reviewer for AISTATS, ICML, ICLR ICML 
-        # - IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), IEEE Transactions on Knowledge and Data Engineering (TKDE), IEEE Transactions on Neural Networks and Learning Systems (TNNLS).
-        # - Matteucci Medal
-    - year: 2021
-      items: 
-        - reviewer for NeurIPS, ICML, IJCAI, ICLR
-    - year: 2020
-      items:
-        - reviewer for ICML, NeurIPS 2019, NeurIPS 2018, AAAI 2018.
+# - title: Services
+#   type: time_table
+#   contents:
+#     - year: 2022
+#       items: 
+#         - reviewer for AISTATS, ICML, ICLR ICML 
+#         # - IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), IEEE Transactions on Knowledge and Data Engineering (TKDE), IEEE Transactions on Neural Networks and Learning Systems (TNNLS).
+#         # - Matteucci Medal
+#     - year: 2021
+#       items: 
+#         - reviewer for NeurIPS, ICML, IJCAI, ICLR
+#     - year: 2020
+#       items:
+#         - reviewer for ICML, NeurIPS 2019, NeurIPS 2018, AAAI 2018.
 
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Computational learning theory
-      items: 
-        - Online machine learning 
-        - Probably approximately correct learning 
-    - title: Robust and adaptable optimization 
-      items: 
-        - Robust sequential decision making
-        - Approximate nearest neighbor search
-    - title: Reinforcement learning
-      items:
-        - Contextual bandits
-        - Linear bandits
-    - title: Deep learning
-      items:
-        - Object detection
-        - Question answering
+# - title: Academic Interests
+#   type: nested_list
+#   contents:
+#     - title: Computational learning theory
+#       items: 
+#         - Online machine learning 
+#         - Probably approximately correct learning 
+#     - title: Robust and adaptable optimization 
+#       items: 
+#         - Robust sequential decision making
+#         - Approximate nearest neighbor search
+#     - title: Reinforcement learning
+#       items:
+#         - Contextual bandits
+#         - Linear bandits
+#     - title: Deep learning
+#       items:
+#         - Object detection
+#         - Question answering
 
 - title: Other Interests
   type: list
