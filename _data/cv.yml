@@ -15,11 +15,11 @@
       institution: Hefei University of Technology (Hefei, China), National University of Singapore
       year: 2015
       description:
-        - Online feature selection with sparse linear regression
         - Compressed sensing
         - Social recommendations
         - Region-convolutional neural networks Based on Caffee
-        - Face recognition, object detection, image classification and denoising
+        - Online feature selection with sparse linear regression
+        - Face recognition, object detection, and image classification
 
     - title: Master in Computer Science, Bachelor in Computer Science
       institution: Hefei University of Technology, Hefei, China
@@ -27,8 +27,8 @@
       description:
         - Content-based news recommendation
         - A web-based Ecommerce platform with mashup
-        - Rules selection for 2D and 3D robotics competition
         - A WordNet-based natural language processing 
+        - Rules selection for 2D and 3D robotics competition
 
 - title: Experience
   type: time_table
@@ -37,22 +37,22 @@
       institution: Forecasting, Amazon, NYC
       year: 09.2019 - 04.2020
       description:
-        - An end-to-end forecasting model for global retail business
-        - Frame out of stock in supply chain with bandits
         - Plan for production model deployment
+        - Out of stock in supply chain with bandits
+        - An end-to-end forecasting model for global retail business
  
     - title: Applied Scientist
       institution: AWS AI Labs, Amazon Web Services, NYC
       year: 04.2020 - now
       description:
-        - Define personalized recommendation with contexts
-        - Build the model with Siamese networks
+        - Lead the project of active learning
+        - Build search model with Siamese networks
+        - Design personalized recommendation with contexts
         - Analyze customer feedback to improve search service
-        - Lead the project of active learning 
         - Collabroation with the internal and external scientific community
 
     - title: Postdoctoral Fellow
-      institution: Mount Sinai, NYC, NY.
+      institution: Mount Sinai, NYC
       year: 04.2019 - 09.2019
       description:
         - Lead and conduct scientific research projects
@@ -62,8 +62,8 @@
       institution: Dalio Institute of Cardiovascular Imaging, Cornell University, NYC
       year: 04.2018 - 04.2019
       description:
+        - Record and maintain medical data for projects
         - Deep learning based algorithms for software design
-        - Record and maintain medical data for projects and publication
         - Projects planning, preparation of grants and publications
 
     - title: Visiting Scholar
