@@ -12,8 +12,7 @@
   type: time_table
   contents:
     - title: Ph.D. in Computer Science
-      institution: Hefei University of Technology, Anhui, China
-      National University of Singapore, Singapore
+      institution: Hefei University of Technology, National University of Singapore, Singapore
       year: 2015
       description:
         - Online Feature Selection Based on Sparse Linear Regression
@@ -23,15 +22,15 @@
         - title: Region-Convolutional Neural Networks Based on Caffee
           contents:
             - Object detection
-        - Applications in vision include object detection, image classification and image denoising
-    - title: Master in Computer Science, Bachelor in Computer Science
-      institution: Hefei University of Technology, Anhui, China
-      year: 2012
-      description:
-        - Content-Based News Recommendation
-        - Designing A Web-Based Ecommerce Platform With Mashup
-        - Rules Selection for 2D and 3D Robotics Competition
-        - A WordNet-Based Natural Language Processing 
+        - Object detection, image classification and image denoising
+    # - title: Master in Computer Science, Bachelor in Computer Science
+    #   institution: Hefei University of Technology, Anhui, China
+    #   year: 2012
+    #   description:
+    #     - Content-Based News Recommendation
+    #     - Designing A Web-Based Ecommerce Platform With Mashup
+    #     - Rules Selection for 2D and 3D Robotics Competition
+    #     - A WordNet-Based Natural Language Processing 
 
 # - title: Experience
 #   type: time_table
