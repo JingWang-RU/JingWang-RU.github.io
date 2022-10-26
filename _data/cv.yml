@@ -34,7 +34,7 @@
   type: time_table
   contents:
     - title: Applied Scientist
-      institution: Forecasting, Amazon, NYC, NY.
+      institution: Forecasting, Amazon, NYC
       year: 09.2019 - 04.2020
       description:
         - An end-to-end forecasting model for global retail business
@@ -42,7 +42,7 @@
         - Plan for production model deployment
  
     - title: Applied Scientist
-      institution: AWS AI Labs, Amazon Web Services, NYC, NY.
+      institution: AWS AI Labs, Amazon Web Services, NYC
       year: 04.2020 - now
       description:
         - Define personalized recommendation with contexts
@@ -59,7 +59,7 @@
         - Present the analysis of research in manuscripts and meetings 
 
     - title: Postdoctoral Associate
-      institution: Dalio Institute of Cardiovascular Imaging, Cornell University, NYC, NY
+      institution: Dalio Institute of Cardiovascular Imaging, Cornell University, NYC
       year: 04.2018 - 04.2019
       description:
         - Deep learning based algorithms for software design
@@ -84,40 +84,38 @@
 #       year: 2015-now
 #       description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
 
-- title: Services
-  type: time_table
-  contents:
-    - year: 2022
-      items: 
-        - reviewer for AISTATS, ICML, ICLR ICML 
-        # - IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), IEEE Transactions on Knowledge and Data Engineering (TKDE), IEEE Transactions on Neural Networks and Learning Systems (TNNLS).
-        # - Matteucci Medal
-    - year: 2021
-      items: 
-        - reviewer for NeurIPS, ICML, IJCAI, ICLR
-    - year: 2020
-      items:
-        - reviewer for ICML, NeurIPS 2019, NeurIPS 2018, AAAI 2018.
+# - title: Services
+#   type: time_table
+#   contents:
+#     - year: 2022
+#       items: 
+#         - reviewer for AISTATS, ICML, ICLR ICML 
+#     - year: 2021
+#       items: 
+#         - reviewer for NeurIPS, ICML, IJCAI, ICLR
+#     - year: before 2020
+#       items:
+#         - reviewer for ICML, NeurIPS 2019, NeurIPS 2018, AAAI 2018, TPAMI, TKDE, TNNLS
 
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Computational learning theory
-      items: 
-        - Online machine learning 
-        - Probably approximately correct learning 
-    - title: Robust and adaptable optimization 
-      items: 
-        - Robust sequential decision making
-        - Approximate nearest neighbor search
-    - title: Reinforcement learning
-      items:
-        - Contextual bandits
-        - Linear bandits
-    - title: Deep learning
-      items:
-        - Object detection
-        - Question answering
+# - title: Academic Interests
+#   type: nested_list
+#   contents:
+#     - title: Computational learning theory
+#       items: 
+#         - Online machine learning 
+#         - Probably approximately correct learning 
+#     - title: Robust and adaptable optimization 
+#       items: 
+#         - Robust sequential decision making
+#         - Approximate nearest neighbor search
+#     - title: Reinforcement learning
+#       items:
+#         - Contextual bandits
+#         - Linear bandits
+#     - title: Deep learning
+#       items:
+#         - Object detection
+#         - Question answering
 
 - title: Other Interests
   type: list
