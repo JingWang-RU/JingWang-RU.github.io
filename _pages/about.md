@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: #<a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Thank you for visiting my homepage! #<a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
@@ -18,8 +18,8 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am an applied scientist at Amazon Forecasting team. Prior to that, I have worked on an NLP based search engine and recommendation system at AWS AI Labs for one year and a half.
+I have joined Amazon (retail and Amazon Web Services) for over 3 years. I build an end-to-end time-series forecasting system for the global retail business. Between 2019 to 2021, I mainly focus on Natural language processing, search and recommendation system at AWS AI Labs which attracts many customers in various domains. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Before joining Amazon, I have done research projects at Mount Sinai, Cornell University, and Rutgers University as a postdoc researcher between 2015 to 2019. There is a lot of fun to work with team members with diverse backgrounds, such as Statistics, Biology and Radiology.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I hold Ph.D. degree of computer science. During 3 years of my Ph.D. study, I have spent 2 wonderful years at National University of Singapore. 
