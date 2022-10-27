@@ -1,7 +1,7 @@
 ---
 layout: post
-title: A long announcement with details
-date: 2015-11-07 16:11:00-0400
+title: One paper about algorithmic fairness accepted to ICML 2022. 
+date: 2022-05 # 16:11:00-0400
 inline: false
 ---
 
