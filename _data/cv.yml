@@ -35,7 +35,7 @@
   contents:
     - title: Applied Scientist
       institution: Forecasting, Amazon, NYC
-      year: 09.2019 - 04.2020
+      year: 04.2021 - now
       description:
         - Plan for production model deployment
         - Formulate and solve out of stock in supply chain with bandits
@@ -43,7 +43,7 @@
  
     - title: Applied Scientist
       institution: AWS AI Labs, Amazon Web Services, NYC
-      year: 04.2020 - now
+      year: 09.2019 - 04.2021
       description:
         - Lead the project of active learning
         - Build NLP based search based on Siamese networks
@@ -73,12 +73,12 @@
         - Approximate Nearest Neighbor Search
         - Online Feature Selection Based on Spectral Graph Theory
 
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+# - title: Open Source Projects
+#   type: time_table
+#   contents:
+#     - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
+#       year: 2015-now
+#       description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
 
 - title: Services
   type: time_table
