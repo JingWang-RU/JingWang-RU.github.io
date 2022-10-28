@@ -18,7 +18,7 @@
         - Compressed sensing
         - Social recommendations
         - Online feature selection with sparse linear regression
-        - Region-convolutional neural networks Based on Caffee
+        - Region-convolutional neural networks Based on Caffe
         - Face recognition, object detection, and image classification
 
     - title: Master and Bachelor in Computer Science
@@ -85,7 +85,7 @@
   contents:
     - year: 2022
       items: 
-        - reviewer for AISTATS, ICML, ICLR ICML 
+        - reviewer for AISTATS, ICML, ICLR, ICML 
     - year: 2021
       items: 
         - reviewer for NeurIPS, ICML, IJCAI, ICLR
