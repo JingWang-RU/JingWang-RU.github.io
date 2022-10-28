@@ -20,6 +20,6 @@ social: true  # includes social icons at the bottom of the page
 
 I have joined Amazon (retail and Amazon Web Services) for over 3 years. I have developed an end-to-end time-series forecasting system for the global retail business. Between 2019 to 2021, I mainly focus on natural language processing, search engine and recommendation service at AWS AI Labs which attract clients from various domains. 
 
-Before joining Amazon, I have done research projects at Mount Sinai, Cornell University, and Rutgers University as a postdoc researcher between 2015 to 2019. There is a lot of fun to work with team members with diverse backgrounds, such as Statistics, Biology and Radiology.
+Before joining Amazon, I have done research projects at Mount Sinai, Cornell University, and Rutgers University as a postdoc researcher between 2015 to 2019. I enjoy working with team members with diverse backgrounds, such as statistics, biology and cardiovascular technology.
 
-I have spent two wonderful years at National University of Singapore when pursuing my Ph.D. study.
+I have spent two wonderful years at National University of Singapore when pursuing my Ph.D. degree.
