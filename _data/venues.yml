@@ -9,6 +9,14 @@
   url: https://icml.cc/
   color: "#00369f"
 
+"ML":
+  url: https://www.springer.com/journal/10994
+  color: "#00369f"
+
+"WSDM":
+  url: https://dl.acm.org/conference/wsdm
+  color: "#00369f"
+
 "PLOSONE":
   ulr: https://journals.plos.org/plosone/
   color: "#00369f"
