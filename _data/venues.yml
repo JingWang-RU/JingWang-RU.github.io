@@ -18,41 +18,41 @@
   color: "#00369f"
 
 "PLOSONE":
-  ulr: https://journals.plos.org/plosone/
+  url: https://journals.plos.org/plosone
   color: "#00369f"
 
 "JACC":
-  ulr: https://www.jacc.org/
+  url: https://www.jacc.org/
   color: "#00369f"
 
 "JAHA":
-  ulr: https://www.ahajournals.org/journal/jaha
+  url: https://www.ahajournals.org/journal/jaha
   color: "#00369f"
 
 "JCCT":
-  ulr: https://www.journalofcardiovascularct.com/
+  url: https://www.journalofcardiovascularct.com
   color: "#00369f"
 
 "PR":
-  ulr: https://www.sciencedirect.com/journal/pattern-recognition
+  url: https://www.sciencedirect.com/journal/pattern-recognition
   color: "#00369f"
 
 "TKDE":
-  ulr: https://www.computer.org/csdl/journal/tk
+  url: https://www.computer.org/csdl/journal/tk
   color: "#00369f"
 
 "CYBERN":
-  ulr: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221036
+  url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221036
   color: "#00369f"
 
 "ICIC":
-  ulr: https://link.springer.com/conference/icic
+  url: https://link.springer.com/conference/icic
   color: "#00369f"
 
 "CHINAGRID":
-  ulr: https://link.springer.com/chapter/10.1007/978-3-540-30544-6_2
+  url: https://link.springer.com/chapter/10.1007/978-3-540-30544-6_2
   color: "#00369f"
 
 "BHI":
-  ulr: https://link.springer.com/conference/brain
+  url: https://link.springer.com/conference/brain
   color: "#00369f"
