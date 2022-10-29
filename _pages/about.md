@@ -23,3 +23,5 @@ I have joined Amazon (retail and Amazon Web Services) for over 3 years. I have d
 Before joining Amazon, I have done research projects at Mount Sinai, Cornell University, and Rutgers University as a postdoc researcher between 2015 to 2019. I enjoy working with team members with diverse backgrounds, such as statistics, biology and cardiovascular technology.
 
 I have spent two wonderful years at National University of Singapore when pursuing my Ph.D. degree.
+
+<i class="ai ai-google-scholar-square ai-3x"></i>
