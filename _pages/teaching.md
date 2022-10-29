@@ -8,13 +8,13 @@ nav_order: 5
 ---
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/spain_1.jpg" title="example image" class="rounded z-depth-1" height="800" width="533" %}
+        {% include figure.html path="/assets/img/spain_1.jpg" title="example image" class="rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/uk_3.jpg" title="example image" class="img-fluid rounded z-depth-1" style="object-fit:none;width:800px; height:53px;border: solid 1px #CCC" %}
+        {% include figure.html path="/assets/img/uk_3.jpg" title="example image" class="img-fluid rounded z-depth-1" style="object-fit:none;width:800px; height:53px;border: solid 1px #CCC" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/uk_9.jpg" title="example image" class="img-fluid rounded z-depth-1" style="object-fit:none;width:800px; height:53px;border: solid 1px #CCC" %}
+        {% include figure.html path="/assets/img/uk_9.jpg" title="example image" class="img-fluid rounded z-depth-1" style="object-fit:none;width:800px; height:53px;border: solid 1px #CCC" %}
     </div>
 </div>
 <div class="caption">
