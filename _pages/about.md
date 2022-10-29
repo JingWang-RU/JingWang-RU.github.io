@@ -24,4 +24,3 @@ Before joining Amazon, I have done research projects at Mount Sinai, Cornell Uni
 
 I have spent two wonderful years at National University of Singapore when pursuing my Ph.D. degree.
 
-<i class="ai ai-google-scholar-square ai-3x"></i>
