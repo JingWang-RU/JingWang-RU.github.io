@@ -6,7 +6,7 @@ description: Use photos to record memories.
 nav: true
 nav_order: 5
 ---
-<div class="row">
+<!-- <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/spain_1.jpg" title="example image" class="rounded z-depth-1" %}
     </div>
@@ -88,4 +88,4 @@ nav_order: 5
       </form>
     </div>
   </div>
-</div>
+</div> -->
