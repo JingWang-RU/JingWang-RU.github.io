@@ -1,17 +1,15 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
-img: assets/img/12.jpg
+title: feature selection
+description: sparse linear regression and graph spectral theory
+img: assets/img/apple.jpg
 importance: 1
 category: work
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+<b>Background</b> In many machin learning tasks, the samples are fixed and feature can be generated dynamically, for example the features of patients.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+The goal of online feature selectionis to make a decision on whether to keep the new fature in real time. For example, the features of patient are collected over time, e.g. history information on day $t_1$, the lab Testing results on day $t_2$ as shown in the following figure. The task of online feature selection is to select the most important features (in red rectangle) at each time step, and discard the remaining features. 
 
     ---
     layout: page
@@ -19,6 +17,32 @@ To give your project a background in the portfolio page, just add the img tag to
     description: a project with a background image
     img: /assets/img/12.jpg
     ---
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/medical_online.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+<b>Problem setup.</b> Suppose that there are n samples, the features 
+<ul>
+  <li>Each a_i being the ith feature</li>
+  <li>Make the yes / no decision on whether to keep the feature</li>
+  <li>Update the observation matrix </li>
+</ul> 
+
+
+<b>Contributions.</b> This work is a simple feature selection algorithm
+<ul>
+  <li>High dimensional regime n<< d</li>
+  <li>Memory cost O(n^2 log n)</li>
+  <li>Time efficiency O(n^3) </li>
+  <li>Theoretical guarantee for k-means clustering</li>
+</ul>
+
+
+<b>Experiments</b>
+
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -34,14 +58,7 @@ To give your project a background in the portfolio page, just add the img tag to
 <div class="caption">
     Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
 </div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
+
 
 You can also put regular text between your rows of images.
 Say you wanted to write a little bit about your project before you posted the rest of the images.
