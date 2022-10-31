@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /teaching/
+permalink: /photography/
 title: photography
 description: Use photos to record memories.
 nav: true
