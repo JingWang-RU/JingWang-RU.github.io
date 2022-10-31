@@ -6,7 +6,7 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Jing
 middle_name: 
 last_name: Wang
-email: you@example.com
+email: #you@example.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
@@ -110,9 +110,9 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: Jing's Opinion # blog_name will be displayed in your blog page
+blog_name: RU little bunny # blog_name will be displayed in your blog page
 blog_nav_title: blog # your blog must have a title for it to be displayed in the nav bar
-blog_description: a simple whitespace theme for academics
+blog_description: technology makes life better
 permalink: /blog/:year/:title/
 
 # Pagination
@@ -120,15 +120,15 @@ pagination:
   enabled: true
 
 # Comments
-disqus_shortname: jing-opinion # put your disqus shortname
+disqus_shortname: #RU little bunny # put your disqus shortname
 # https://help.disqus.com/en/articles/1717111-what-s-a-shortname
 
 # External sources.
 # If you have blog posts published on medium.com or other exteranl sources,
 # you can display them in your blog by adding a link to the RSS feed.
-external_sources:
-   - name: medium.com
-     rss_url: https://medium.com/@al-folio/feed
+# external_sources:
+#    - name: medium.com
+#      rss_url: https://medium.com/@al-folio/feed
 
 # -----------------------------------------------------------------------------
 # Collections
