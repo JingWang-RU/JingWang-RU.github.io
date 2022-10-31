@@ -1,10 +1,10 @@
 ---
 layout: page
-title: feature selection
-description: sparse linear regression and graph spectral theory
+title: selection
+description: linear regression, spectral theory
 img: assets/img/apple.jpg
 importance: 1
-category: work
+category: research
 ---
 
     ---

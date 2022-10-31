@@ -1,10 +1,10 @@
 ---
 layout: page
 title: computer vision
-description: object detection, denoising, face recognition
+description: object detection, face recognition
 img: assets/img/vision.png
-importance: 2
-category: work
+importance: 1
+category: research
 ---
 
     ---

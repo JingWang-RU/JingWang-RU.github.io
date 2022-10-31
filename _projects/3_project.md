@@ -1,11 +1,11 @@
 ---
 layout: page
-title: social recommendation
-description: matrix completion
+title: recommendation
+description: matrix completion, binary signal
 img: assets/img/graph.png
 # redirect: https://unsplash.com
-importance: 3
-category: work
+importance: 1
+category: research
 ---
 
     ---
