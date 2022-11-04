@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Hello, welcome to my homepage! #<a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Hello, welcome to my website! #<a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
