@@ -6,7 +6,7 @@
     - name: Location
       value: United States of America
     - name: Languages
-      value: English, Mandarin, Cantonese
+      value: English, Mandarin
 
 - title: Education
   type: time_table
