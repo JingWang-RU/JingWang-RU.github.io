@@ -8,10 +8,6 @@ nav_order: 5
 ---
 
 
-<div class="caption">
-    <b>Left</b>, Seville museum. <b>Middle</b>, British museum. <b>Right</b>, London bridge.
-</div>
-
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="/assets/img/spain_5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
