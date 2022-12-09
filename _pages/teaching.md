@@ -52,7 +52,7 @@ nav_order: 5
 Cambridge.
 </div>
 
- <div class="row justify-content-sm-center">
+<!-- <div class="row justify-content-sm-center"> -->
  	<div class="col-sm-4 mt-3 mt-md-0">
         {% include figure.html path="/assets/img/uk_8.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
@@ -62,7 +62,7 @@ Cambridge.
     <div class="col-sm-4 mt-3 mt-md-0">
         {% include figure.html path="/assets/img/spain_4.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
-</div>
+<!-- </div>
 <div class="caption">
     <b>Left</b>, Cambridge. <b>Middle</b>, United Nation Headquarters in New York City. <b>Right</b>, Cadiz.
-</div>
+</div> -->
