@@ -22,5 +22,5 @@ I joined Amazon (Forecasting and Amazon Web Services) in 2019. At Forecasting te
 
 Prior to joining Amazon, I spent three years as a postdoctoral researcher at the Department of Statistics in Rutgers University. From 2018 to 2019, I worked at the intersection of Healthcare and machine learning in Cornell Medical School and Icahn Genomics Institute. 
 
-I have spent two years at National University of Singapore when pursuing my Ph.D. degree.
+I have spent two years at National University of Singapore when pursuing my Ph.D. degree in computer science.
 
