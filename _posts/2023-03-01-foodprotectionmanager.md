@@ -11,7 +11,7 @@ Today I got my food protection manager certificate. It is valid for 5 years. I p
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/JW_Certificate.pdf" title="certificate" width="400" 
+        {% include figure.html path="assets/img/JW_Certificate.jpeg" title="certificate" width="400" 
      height="500" class="img-fluid rounded z-depth-1 center" heigth=800px %}
     </div>
 </div>
