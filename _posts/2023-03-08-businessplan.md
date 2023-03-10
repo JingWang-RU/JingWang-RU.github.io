@@ -5,6 +5,7 @@ date: 2023-03-08 11:22:00
 description:  
 ---
 
+slogan: Come for the Tea, Stay for the Experience
 
 ## Executive Summary:
 Our tea house, named "Xiao Xiao Shen Tea Haven," will be located in a prime commercial area, targeting individuals (students, parents, care givers, workers) who are looking for a cozy and tranquil environment to relax and enjoy high-quality tea, pastries, and light meals. We will offer a unique and diverse selection of tea blends from different regions of the world, paired with delicious pastries and light meals, to provide an unforgettable experience to our customers.
